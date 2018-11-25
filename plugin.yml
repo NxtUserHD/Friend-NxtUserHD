@@ -1,0 +1,8 @@
+name: FriendSystem 
+author: NxtUserHD
+version: 1.0
+api: 4.0.0
+main: NxtUserHD\friends
+commands:
+  friends:
+    description: Main Friends
